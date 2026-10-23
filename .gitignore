@@ -1,0 +1,18 @@
+# Saída do Maven (gerada no Clean and Build)
+target/
+
+# Configurações locais do NetBeans
+nbactions.xml
+nb-configuration.xml
+nbproject/private/
+
+# Material da aula (slides e PDFs da professora): não publicar
+*.pdf
+*.pptx
+
+# Cópias soltas do formulário; as versões usadas estão dentro de ClienteAtendimentoRPC
+/TelaTotem.java
+/TelaTotem.form
+
+# Arquivos de trava do LibreOffice (aparecem com um .pptx/.docx aberto)
+.~lock.*
